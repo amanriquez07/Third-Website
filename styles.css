@@ -8,3 +8,20 @@ h1{
 img{ 
     border-radius: 50%
 }
+
+#special{
+    color: #FFF0F5;
+    background-color:#FFB6C1;
+}
+#special2{
+    color: #FFFACD;
+    background-color: #9370DB;
+
+}
+#special3{
+    color: #191970;
+    background-color: #DDA0DD;
+}
+hr{
+    border: 2px solid #FF0000;
+}
